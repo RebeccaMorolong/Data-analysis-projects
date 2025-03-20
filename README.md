@@ -26,8 +26,8 @@ Each project directory has the following structure:
 - **Results**: Summary of the results obtained from the analysis.
 - # [Car Insurance Premium Analysis]  
 **Data Analysis Project**  
-![GitHub repo size](https://github.com/RebeccaMorolong/Data-analysis-projects/blob/main/Insurance%20car%20data%20analysis.ipynb)    
-![GitHub language](Python)
+(https://github.com/RebeccaMorolong/Data-analysis-projects/blob/main/Insurance%20car%20data%20analysis.ipynb)    
+(Python)
 
 ---
 
