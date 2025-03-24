@@ -58,7 +58,7 @@ Briefly describe the project's purpose, key questions addressed, and datasets us
 ## 🛠️ Setup Instructions  
 
 
-### Project 2: [Project Title]
+### Project 2: hotelbookinganalysis
 
 - **Description**: Brief description of the project.
 - **Data**: Description of the datasets used in the project.
